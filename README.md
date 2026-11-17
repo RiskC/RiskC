@@ -1,4 +1,11 @@
 ## Hi there 👋
+
+I am currently developing my backend programming skills through boot.dev.
+
+
+
+Below are all my certificates from completed boot.dev courses. Click on them to be redirected to the verification page.
+
 [![Boot.dev Introduction to Python Course certificate](https://api.boot.dev/v1/static/certificate/487017c0-4260-4fbd-af44-fb4eef032b8c)](https://www.boot.dev/certificates/487017c0-4260-4fbd-af44-fb4eef032b8c)
 [![Boot.dev Learn Linux certificate](https://api.boot.dev/v1/static/certificate/bcbbe64d-fa2e-44f4-a65f-bf7856a01d5a)](https://www.boot.dev/certificates/bcbbe64d-fa2e-44f4-a65f-bf7856a01d5a)
 [![Boot.dev Build a BookBot in Python certificate](https://api.boot.dev/v1/static/certificate/a097be9a-0e34-4447-989c-194b129536b0)](https://www.boot.dev/certificates/a097be9a-0e34-4447-989c-194b129536b0)
